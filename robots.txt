@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://novie-singeli.ru/sitemap.xml
